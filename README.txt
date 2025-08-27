@@ -69,7 +69,7 @@ ContactManager/
 │
 │── database.sql
 │── README.txt
-│── .gitignore
+
 
 License
 -------
